@@ -40,3 +40,4 @@ payload:
   - DOMAIN-SUFFIX,audiences.me,no-resolve
   - DOMAIN-SUFFIX,cinefiles.info,no-resolve
   - DOMAIN-SUFFIX,m-team.io,no-resolve
+  - DOMAIN-SUFFIX,pterclub.net,no-resolve
